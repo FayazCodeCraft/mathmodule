@@ -18,3 +18,12 @@ function add(num1,num2)
 function subtract(number1, number2){
     return number1 - number2;
 }
+/**
+ * number and power are the input and it will return the output
+ * @param {*} number
+ * @param {*} power
+ * @returns 
+ */
+function powers(number,power){
+    return number**power
+}
