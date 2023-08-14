@@ -37,3 +37,12 @@ function multiply(num1,num2)
 {
     return num1*num2;
 }
+/**
+ * This function performs division of two numbers
+ * @param {number} numerator any number
+ * @param {number} denomenator cannot be zero
+ * @returns quotient of numerator / denomenator
+ */
+function divide(numerator, denomenator){
+    return numerator / denomenator;
+}
