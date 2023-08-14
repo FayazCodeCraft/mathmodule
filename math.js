@@ -27,3 +27,13 @@ function subtract(number1, number2){
 function powers(number,power){
     return number**power
 }
+/**
+ * Multiply num1 and num2
+ * @param {number} num1 
+ * @param {number} num2 
+ * @returns the result
+ */
+function multiply(num1,num2)
+{
+    return num1*num2;
+}
